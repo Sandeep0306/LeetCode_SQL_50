@@ -1,0 +1,2 @@
+# LeetCode_SQL_50
+The SQL 50 collection on LeetCode consists of a diverse range of SQL problems designed to assess and enhance your SQL skills. 
